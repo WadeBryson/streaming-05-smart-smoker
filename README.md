@@ -14,3 +14,10 @@
      - Message 1 - Time of Day, Smoker Temp
      - Message 2 - Time of Day, Food 1 Temp
      - Message 3 - Time of Day, Food 2 Temp
+
+## Screenshot
+
+See a running example with at least 3 concurrent process windows here:
+
+<img align="center" width="921" height="483" src="VS Code Screen Shot.png">
+<img align="center" width="921" height="483" src="RabbitMQ Screen Shot.png">
