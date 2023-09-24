@@ -100,5 +100,5 @@ if __name__ == "__main__":
         offer_rabbitmq_admin_site()
    
     # send the message to the queue
-    send_message("localhost","Smoker_Temp_Queue","Temp_Food1_Queue", "Temp_Food2_Queue", "Square_Data.csv")
+    send_message("localhost","Smoker_Temp_Queue","Temp_Food1_Queue", "Temp_Food2_Queue", "smoker-temps.csv")
 
