@@ -1,0 +1,16 @@
+2023-10-01 08:46:55,278.BBQ_Temp_Listener.INFO ==================================================
+2023-10-01 08:46:55,279.BBQ_Temp_Listener.INFO Today is 2023-10-01 at 08:46 AM
+2023-10-01 08:46:55,279.BBQ_Temp_Listener.INFO Running on: nt Windows 10
+2023-10-01 08:46:55,279.BBQ_Temp_Listener.INFO Python version:  3.11.3
+2023-10-01 08:46:55,279.BBQ_Temp_Listener.INFO Python path: C:\Users\wadej\OneDrive\Documents\streaming-05-smart-smoker\.venv
+2023-10-01 08:46:55,280.BBQ_Temp_Listener.INFO Working dir: C:\Users\wadej\OneDrive\Documents\streaming-05-smart-smoker
+2023-10-01 08:46:55,280.BBQ_Temp_Listener.INFO ==================================================
+2023-10-01 08:46:55,337.BBQ_Temp_Listener.INFO  [*] Ready for work. To exit press CTRL+C
+2023-10-01 08:47:34,528.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:20:15,84.2
+2023-10-01 08:47:34,528.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 08:48:04,527.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:20:20,84.2
+2023-10-01 08:48:04,528.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 08:48:35,331.BBQ_Temp_Listener.INFO  User interrupted continuous listening process.
+2023-10-01 08:48:35,332.BBQ_Temp_Listener.INFO 
+Closing connection. See you later.
+
