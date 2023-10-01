@@ -9,7 +9,6 @@
 
 import pika
 import sys
-import csv
 from collections import deque
 
 # Configure logging
@@ -31,21 +30,33 @@ def bbq_temp_callback(ch, method, properties, body):
     try:
         # Splitting the time stamp and temperature
         smoker_info = body.decode().split(",")
+        # Making sure the temperature is valid before we add to the deque
+        if smoker_info[1] != "No Temperature":
+            smoker_temperature = float(smoker_info[1])
+            smoker_timestamp = smoker_info[0]
+            BBQ_Temp_Deque.append(smoker_temperature)
 
-    # Write the new CSV
-    with open('New_Area_If_Doubled_Sides_Of_Square.csv', 'a') as file:
-        writer = csv.writer(file, delimiter = ',')
-        writer.writerow([original_area, new_area])
+            # Temperature Alert Calculations
+            if len(BBQ_Temp_Deque) > 1:
+                temperature_difference = [BBQ_Temp_Deque[i]-BBQ_Temp_Deque[-1]
+                                          for i in range(0, (len(BBQ_Temp_Deque)-1),1)]
+                if any(value > 15 for value in temperature_difference):
+                    alert_needed = True
+
+                    if alert_needed:
+                        logger.info("SMOKER ALERT: At {smoker_timestamp} your temperature dropped more than 15 degrees.")
+    except Exception as e:
+        logger.error("ERROR: There was an error processing the temperature.")
    
     # when done with task, tell the user
-    logger.info(" [x] Done.")
+    logger.info(" [x] Receieved Smoker Temp.")
     # acknowledge the message was received and processed 
     # (now it can be deleted from the queue)
     ch.basic_ack(delivery_tag=method.delivery_tag)
 
 
 # define a main function to run the program
-def main(hn: str = "localhost", qn: str = "Area_Queue"):
+def main(hn: str = "localhost", qn: str = "Smoker_Temp_Queue"):
     """ Continuously listen for task messages on a named queue."""
 
     # when a statement can go wrong, use a try-except block
@@ -84,7 +95,7 @@ def main(hn: str = "localhost", qn: str = "Area_Queue"):
         # configure the channel to listen on a specific queue,  
         # use the callback function named callback,
         # and do not auto-acknowledge the message (let the callback handle it)
-        channel.basic_consume( queue=qn, on_message_callback=callback)
+        channel.basic_consume( queue=qn, on_message_callback=bbq_temp_callback)
 
         # print a message to the console for the user
         logger.info(" [*] Ready for work. To exit press CTRL+C")
@@ -111,4 +122,4 @@ def main(hn: str = "localhost", qn: str = "Area_Queue"):
 # If this is the program being run, then execute the code below
 if __name__ == "__main__":
     # call the main function with the information needed
-    main("localhost", "Area_Queue")
+    main("localhost", "Smoker_Temp_Queue")
