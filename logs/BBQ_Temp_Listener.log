@@ -1,16 +1,96 @@
-2023-10-01 08:46:55,278.BBQ_Temp_Listener.INFO ==================================================
-2023-10-01 08:46:55,279.BBQ_Temp_Listener.INFO Today is 2023-10-01 at 08:46 AM
-2023-10-01 08:46:55,279.BBQ_Temp_Listener.INFO Running on: nt Windows 10
-2023-10-01 08:46:55,279.BBQ_Temp_Listener.INFO Python version:  3.11.3
-2023-10-01 08:46:55,279.BBQ_Temp_Listener.INFO Python path: C:\Users\wadej\OneDrive\Documents\streaming-05-smart-smoker\.venv
-2023-10-01 08:46:55,280.BBQ_Temp_Listener.INFO Working dir: C:\Users\wadej\OneDrive\Documents\streaming-05-smart-smoker
-2023-10-01 08:46:55,280.BBQ_Temp_Listener.INFO ==================================================
-2023-10-01 08:46:55,337.BBQ_Temp_Listener.INFO  [*] Ready for work. To exit press CTRL+C
-2023-10-01 08:47:34,528.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:20:15,84.2
-2023-10-01 08:47:34,528.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
-2023-10-01 08:48:04,527.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:20:20,84.2
-2023-10-01 08:48:04,528.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
-2023-10-01 08:48:35,331.BBQ_Temp_Listener.INFO  User interrupted continuous listening process.
-2023-10-01 08:48:35,332.BBQ_Temp_Listener.INFO 
+2023-10-01 09:06:23,956.BBQ_Temp_Listener.INFO ==================================================
+2023-10-01 09:06:23,957.BBQ_Temp_Listener.INFO Today is 2023-10-01 at 09:06 AM
+2023-10-01 09:06:23,957.BBQ_Temp_Listener.INFO Running on: nt Windows 10
+2023-10-01 09:06:23,957.BBQ_Temp_Listener.INFO Python version:  3.11.3
+2023-10-01 09:06:23,957.BBQ_Temp_Listener.INFO Python path: C:\Users\wadej\OneDrive\Documents\streaming-05-smart-smoker\.venv
+2023-10-01 09:06:23,958.BBQ_Temp_Listener.INFO Working dir: C:\Users\wadej\OneDrive\Documents\streaming-05-smart-smoker
+2023-10-01 09:06:23,958.BBQ_Temp_Listener.INFO ==================================================
+2023-10-01 09:06:23,975.BBQ_Temp_Listener.INFO  [*] Ready for work. To exit press CTRL+C
+2023-10-01 09:06:44,394.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:20:15,84.2
+2023-10-01 09:06:44,394.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:07:14,397.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:20:20,84.2
+2023-10-01 09:07:14,397.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:07:44,401.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:21:10,87.6
+2023-10-01 09:07:44,402.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:08:14,405.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:21:15,87.6
+2023-10-01 09:08:14,405.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:08:44,407.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:22:10,86.3
+2023-10-01 09:08:44,407.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:09:14,409.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:22:15,86.3
+2023-10-01 09:09:14,409.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:09:44,411.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:23:10,92.0
+2023-10-01 09:09:44,412.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:10:14,414.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:23:15,92.0
+2023-10-01 09:10:14,415.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:10:44,417.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:24:10,96.8
+2023-10-01 09:10:44,417.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:11:14,419.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:24:15,96.8
+2023-10-01 09:11:14,420.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:11:44,423.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:25:05,100.6
+2023-10-01 09:11:44,423.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:12:14,433.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:25:10,100.9
+2023-10-01 09:12:14,433.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:12:44,429.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:25:15,100.9
+2023-10-01 09:12:44,429.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:13:14,432.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:26:10,104.8
+2023-10-01 09:13:14,432.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:13:44,435.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:26:15,104.8
+2023-10-01 09:13:44,435.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:14:14,437.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:27:10,108.2
+2023-10-01 09:14:14,438.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:14:44,441.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:27:15,108.2
+2023-10-01 09:14:44,442.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:15:14,443.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:28:10,111.4
+2023-10-01 09:15:14,444.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:15:44,447.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:28:15,111.4
+2023-10-01 09:15:44,447.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:16:14,450.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:29:10,114.2
+2023-10-01 09:16:14,450.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:16:44,452.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:29:15,114.2
+2023-10-01 09:16:44,453.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:17:14,461.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:30:10,116.9
+2023-10-01 09:17:14,462.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:17:44,457.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:30:15,116.9
+2023-10-01 09:17:44,458.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:18:14,459.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:31:10,119.4
+2023-10-01 09:18:14,460.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:18:44,463.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:31:15,119.4
+2023-10-01 09:18:44,463.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:19:14,466.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:32:10,120.1
+2023-10-01 09:19:14,467.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:19:44,469.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:32:15,120.1
+2023-10-01 09:19:44,469.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:20:14,471.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:33:10,106.2
+2023-10-01 09:20:14,472.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:20:44,476.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:33:15,106.2
+2023-10-01 09:20:44,476.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:21:14,479.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:34:10,103.5
+2023-10-01 09:21:14,480.BBQ_Temp_Listener.INFO SMOKER ALERT: At {smoker_timestamp} your temperature dropped more than 15 degrees.
+2023-10-01 09:21:14,481.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:21:44,481.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:34:15,103.5
+2023-10-01 09:21:44,482.BBQ_Temp_Listener.INFO SMOKER ALERT: At {smoker_timestamp} your temperature dropped more than 15 degrees.
+2023-10-01 09:21:44,482.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:22:14,485.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:35:10,105.3
+2023-10-01 09:22:14,486.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:22:44,489.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:35:15,105.3
+2023-10-01 09:22:44,489.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:23:14,491.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:36:10,106.9
+2023-10-01 09:23:14,491.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:23:44,493.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:36:15,106.9
+2023-10-01 09:23:44,494.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:24:14,496.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:37:10,111.9
+2023-10-01 09:24:14,496.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:24:44,499.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:37:15,111.9
+2023-10-01 09:24:44,499.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:25:14,502.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:38:10,114.2
+2023-10-01 09:25:14,503.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:25:44,505.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:38:15,114.2
+2023-10-01 09:25:44,505.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:26:14,507.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:39:10,115.5
+2023-10-01 09:26:14,508.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:26:44,510.BBQ_Temp_Listener.INFO  [x] Received 05/22/21 12:39:15,115.5
+2023-10-01 09:26:44,511.BBQ_Temp_Listener.INFO  [x] Receieved Smoker Temp.
+2023-10-01 09:27:24,062.BBQ_Temp_Listener.INFO  User interrupted continuous listening process.
+2023-10-01 09:27:24,062.BBQ_Temp_Listener.INFO 
 Closing connection. See you later.
 

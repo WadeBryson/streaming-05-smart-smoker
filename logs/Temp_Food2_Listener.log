@@ -1,0 +1,98 @@
+2023-10-01 09:06:19,302.Temp_Food2_Listener.INFO ==================================================
+2023-10-01 09:06:19,302.Temp_Food2_Listener.INFO Today is 2023-10-01 at 09:06 AM
+2023-10-01 09:06:19,302.Temp_Food2_Listener.INFO Running on: nt Windows 10
+2023-10-01 09:06:19,303.Temp_Food2_Listener.INFO Python version:  3.11.3
+2023-10-01 09:06:19,303.Temp_Food2_Listener.INFO Python path: C:\Users\wadej\OneDrive\Documents\streaming-05-smart-smoker\.venv
+2023-10-01 09:06:19,303.Temp_Food2_Listener.INFO Working dir: C:\Users\wadej\OneDrive\Documents\streaming-05-smart-smoker
+2023-10-01 09:06:19,304.Temp_Food2_Listener.INFO ==================================================
+2023-10-01 09:06:19,321.Temp_Food2_Listener.INFO  [*] Ready for work. To exit press CTRL+C
+2023-10-01 09:06:19,321.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:20:15,No Temperature
+2023-10-01 09:06:19,321.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:06:19,322.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:20:20,No Temperature
+2023-10-01 09:06:19,322.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:06:44,394.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:20:15,No Temperature
+2023-10-01 09:06:44,395.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:07:14,398.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:20:20,No Temperature
+2023-10-01 09:07:14,399.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:07:44,402.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:21:10,No Temperature
+2023-10-01 09:07:44,403.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:08:14,406.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:21:15,No Temperature
+2023-10-01 09:08:14,406.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:08:44,408.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:22:10,No Temperature
+2023-10-01 09:08:44,408.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:09:14,410.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:22:15,No Temperature
+2023-10-01 09:09:14,410.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:09:44,412.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:23:10,No Temperature
+2023-10-01 09:09:44,412.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:10:14,415.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:23:15,No Temperature
+2023-10-01 09:10:14,417.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:10:44,418.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:24:10,No Temperature
+2023-10-01 09:10:44,418.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:11:14,422.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:24:15,No Temperature
+2023-10-01 09:11:14,422.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:11:44,424.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:25:05,No Temperature
+2023-10-01 09:11:44,424.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:12:14,433.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:25:10,No Temperature
+2023-10-01 09:12:14,433.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:12:44,430.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:25:15,No Temperature
+2023-10-01 09:12:44,430.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:13:14,433.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:26:10,No Temperature
+2023-10-01 09:13:14,433.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:13:44,436.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:26:15,No Temperature
+2023-10-01 09:13:44,436.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:14:14,439.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:27:10,No Temperature
+2023-10-01 09:14:14,441.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:14:44,442.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:27:15,No Temperature
+2023-10-01 09:14:44,442.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:15:14,445.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:28:10,No Temperature
+2023-10-01 09:15:14,445.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:15:44,448.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:28:15,No Temperature
+2023-10-01 09:15:44,448.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:16:14,450.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:29:10,No Temperature
+2023-10-01 09:16:14,451.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:16:44,455.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:29:15,No Temperature
+2023-10-01 09:16:44,456.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:17:14,466.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:30:10,No Temperature
+2023-10-01 09:17:14,466.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:17:44,459.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:30:15,No Temperature
+2023-10-01 09:17:44,459.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:18:14,462.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:31:10,No Temperature
+2023-10-01 09:18:14,462.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:18:44,465.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:31:15,No Temperature
+2023-10-01 09:18:44,466.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:19:14,468.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:32:10,No Temperature
+2023-10-01 09:19:14,468.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:19:44,470.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:32:15,No Temperature
+2023-10-01 09:19:44,471.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:20:14,473.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:33:10,No Temperature
+2023-10-01 09:20:14,474.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:20:44,478.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:33:15,No Temperature
+2023-10-01 09:20:44,478.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:21:14,481.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:34:10,No Temperature
+2023-10-01 09:21:14,482.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:21:44,483.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:34:15,No Temperature
+2023-10-01 09:21:44,483.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:22:14,486.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:35:10,No Temperature
+2023-10-01 09:22:14,487.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:22:44,489.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:35:15,No Temperature
+2023-10-01 09:22:44,489.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:23:14,492.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:36:10,No Temperature
+2023-10-01 09:23:14,492.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:23:44,495.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:36:15,No Temperature
+2023-10-01 09:23:44,495.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:24:14,497.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:37:10,No Temperature
+2023-10-01 09:24:14,497.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:24:44,500.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:37:15,No Temperature
+2023-10-01 09:24:44,500.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:25:14,503.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:38:10,No Temperature
+2023-10-01 09:25:14,504.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:25:44,506.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:38:15,No Temperature
+2023-10-01 09:25:44,506.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:26:14,508.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:39:10,No Temperature
+2023-10-01 09:26:14,509.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:26:44,511.Temp_Food2_Listener.INFO  [x] Received 05/22/21 12:39:15,No Temperature
+2023-10-01 09:26:44,511.Temp_Food2_Listener.INFO  [x] Receieved Food1 Temp.
+2023-10-01 09:27:29,645.Temp_Food2_Listener.INFO  User interrupted continuous listening process.
+2023-10-01 09:27:29,646.Temp_Food2_Listener.INFO 
+Closing connection. See you later.
+

@@ -48,7 +48,7 @@ def Food2_callback(ch, method, properties, body):
         logger.error("ERROR: There was an error processing the temperature.")
    
     # when done with task, tell the user
-    logger.info(" [x] Receieved Food1 Temp.")
+    logger.info(" [x] Receieved Food2 Temp.")
     # acknowledge the message was received and processed 
     # (now it can be deleted from the queue)
     ch.basic_ack(delivery_tag=method.delivery_tag)
