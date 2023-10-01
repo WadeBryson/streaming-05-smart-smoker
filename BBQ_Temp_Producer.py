@@ -62,6 +62,13 @@ def send_message(host: str, queue1_name: str, queue2_name: str, queue3_name: str
             for row in reader:
                 # separate row into variables
                 timestamp, temp_of_smoker, temp_food1, temp_food2 = row
+                # Making sure all temperature readings are valid
+                if temp_of_smoker == '':
+                    temp_of_smoker = 'No Temperature'
+                if temp_food1 == '':
+                    temp_food1 = 'No Temperature'
+                if temp_food2 == '':
+                    temp_food2 = 'No Temperature'
                 # define messages
                 message1 = timestamp, temp_of_smoker
                 message2 = timestamp, temp_food1
